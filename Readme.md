@@ -13,4 +13,3 @@ Open .pdsprj file in Proteus to run the simulation.
 ## Tools Used:
 - STM32CubeIDE
 - Proteus 8
--
